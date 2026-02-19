@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "OYJ",
+  "base_artist": "Sonsi",
+  "createdAt": "2026-02-19T08:02:45.379838Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OYJ",
+      "artist": "Sonsi",
+      "has_synced": false,
+      "path": "select/pl_01_OYJ_Sonsi.txt"
+    }
+  ]
+}
